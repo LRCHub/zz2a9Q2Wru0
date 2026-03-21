@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "AIZO",
   "base_artist": "King Gnu",
-  "createdAt": "2026-02-06T01:06:18.903504Z",
+  "createdAt": "2026-03-21T14:50:24.076524Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -29,12 +29,37 @@
       "path": "select/03_AIZO_King_Gnu.lrc"
     },
     {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "AIZO (Paused)",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/04_AIZO_(Paused)_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "AIZO",
+      "artist": "Song, King Gnu",
+      "has_synced": true,
+      "path": "select/05_AIZO_Song,_King_Gnu.lrc"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "AIZO",
       "artist": "King Gnu",
       "has_synced": false,
       "path": "select/pl_01_AIZO_King_Gnu.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "AIZO",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/localdb_01_AIZO_King_Gnu.txt",
+      "repo_name": "zz2a9Q2Wru0"
     }
   ]
 }
